@@ -1,0 +1,23 @@
+{
+  "id": "ie",
+  "location": {
+    "latitude": 53.339428,
+    "longitude": -6.257664
+  },
+  "population": 6572728,
+  "population_year": 2016,
+  "area": 84421,
+  "currency": "euro",
+  "details": [
+    {
+      "language": "en",
+      "name": "Ireland",
+      "capital": "Dublin",
+      "description": "Ireland is an island in the North Atlantic, in north-western Europe. It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St George's Channel. Ireland is the second-largest island of the British Isles, the third-largest in Europe, and the twentieth-largest on Earth.",
+      "languages": [
+        "English",
+        "Irish"
+      ]
+    }
+  ]
+}
