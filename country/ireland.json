@@ -1,4 +1,5 @@
 {
+  "$schema": "https://schema.democratic.guide/country.schema.json",
   "id": "ie",
   "location": {
     "latitude": 53.339428,
