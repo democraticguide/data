@@ -1,3 +1,4 @@
 {
+	"$schema": "https://schema.democratic.guide/countries.schema.json",
 	"countries": ["ie"]
 }
